@@ -1,4 +1,4 @@
-- Hello, I'm @Menalque285
+- Hello, I'm @Menalque285 (pronounced men-NAL-kay)
 - Interested in: freelance Discord bot coding 
 - Working on: EduVitamin+ (CKY Hackathon 2021 project) 
 - Currently learning: intermediate Python (decorators, generators etc)
